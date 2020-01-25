@@ -1,0 +1,1 @@
+      <div class="lobster" style="font-size: 20px;border-bottom:3px solid #ccc!important;border-color:#2196F3!important;margin-bottom: 10px">Tentang Kami</div>

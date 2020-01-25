@@ -1,0 +1,4 @@
+      <div class="lobster" style="font-size: 20px;border-bottom:3px solid #ccc!important;border-color:#2196F3!important;margin-bottom: 10px">Selamat Datang</div>
+      Selamat datang di web cek ongkir Kami. Kami merupakan salah satu dari sekian banyak penyedia yang dapat menampilkan ongkos kirim yang ada. Dalam hal ini, Kami menggunakan API rajaonkir di mana Kami hanya sebatas menjadi developer untuk menampilkan User Interface dengan API yang sudah disediakan.<br/><br/>
+      Apabila ANda tertarik ingin memasang widget cek ongkir oada web atau blog Anda, Anda dapat mengunjungi http://demo.contohnya.net/resi/widget sebagai cara menampilkan code yang dibutuhkan. Selain itu, jika ANda tertarik web seperti ini, Anda dapat menghubungi Kami.<br/><br/>
+      Selamat mencoba :D
